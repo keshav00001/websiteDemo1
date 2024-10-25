@@ -1,0 +1,68 @@
+.navLink_space{
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+ .navColor{
+    font-size: 15px;
+    color: #090d2f;
+    font-family: "Manrope", sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+ }
+ .navColor a:hover{
+    color: #005de0;
+
+ }
+
+.contactIcon{
+    font-size: 22px;
+    margin-right: 17px;
+    position: relative;
+    top: 3px;
+    color: #005de0;
+}
+.free_consult{
+    line-height: 0.5;
+    /* display: block; */
+    font-size: 12px;
+    font-weight: 600;
+    color: #ababab;
+}
+.free_consult2{
+    line-height: 0.5;
+    display: block;  
+    font-size: 14px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.searchIcon{
+ width: 40px;
+  height: 40px;
+  line-height: 38px;
+  font-size: 16px;
+  border-radius: 50%;
+  text-align: center;
+  color: #333333;
+  border: 1px solid #ddd;
+  transition: all 0.3s linear;
+}
+
+.Headercount {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    background: #005de0;
+    border-radius: 50%;
+    font-size: 10px;
+    font-weight: 400;
+    display: inline-block;
+    color: #ffffff;
+    position: relative;
+    top: -58px;
+    right: 0px;
+    left: 17px;
+  }
+  
